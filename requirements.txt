@@ -1,3 +1,3 @@
 fastapi>=0.110.0
 requests>=2.31.0
-websockets>=12.0
+binary protocol streams>=12.0
